@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7ba39b9a508468e859270e0f03f5fea, type: 3}
+  m_Name: SecondTheme
+  m_EditorClassIdentifier: 
+  PaintObjects:
+  - {fileID: 1317203605398238679, guid: 1d7623da5ae554af5a39c953bfcea7d8, type: 3}
+  - {fileID: 4217643147713707618, guid: 251dd28207dd8486d8892bced5fc0bc0, type: 3}
